@@ -1,0 +1,52 @@
+state,code
+Alaska,income positive
+Arizona,income negative
+California,equal 
+Colorado,income positive
+Connecticut,income positive
+Delaware,income positive
+Florida,income negative
+Hawaii,income negative
+Iowa,income positive
+Idaho,income positive
+Illinois,income negative
+Indiana,income positive
+Kansas,equal 
+Louisiana,income negative
+Massachusetts,income positive
+Maine,income negative
+Maryland,income positive
+Minnesota,income positive
+Montana,income positive
+North Dakota,equal 
+Nebraska,income positive
+New Hampshire,income positive
+New Mexico,income negative
+Nevada,income positive
+New York,income positive
+Ohio,income positive
+Oklahoma,income negative
+Oregon,income negative
+Pennsylvania,income negative
+Rhode Island,income positive
+South Carolina,income negative
+South Dakota,income positive
+Tennessee,income negative
+Texas,income negative
+Utah,equal 
+Virginia,equal 
+Vermont,income negative
+Washington,income positive
+West Virginia,income negative
+Wyoming,income positive
+District of Columbia,income negative
+Alabama,race negative
+Arkansas,race negative
+Georgia,race negative
+Kentucky,race negative
+Michigan,race positive
+Missouri,race positive
+Mississippi,race negative
+North Carolina,race negative
+New Jersey,race negative
+Wisconsin,race positive
