@@ -1,55 +1,11 @@
 ﻿key,beta,se,location,type,methods
-MUD gap,0.077,0.023,rural,income,regular
-SFD gap,0.070,0.007,rural,income,regular
-density gap,0.043,0.019,rural,income,regular
-income gap,-0.275,0.046,rural,income,regular
-black percent gap,0.026,0.024,rural,income,regular
-highway gap,0.485,0.031,rural,income,regular
-MUD gap,-0.039,0.009,urban,income,regular
-SFD gap,0.006,0.008,urban,income,regular
-density gap,0.000,0.000,urban,income,regular
-income gap,-0.050,0.026,urban,income,regular
-black percent gap,0.009,0.008,urban,income,regular
-highway gap,0.256,0.070,urban,income,regular
-MUD gap,0.028,0.019,rural,race,regular
-SFD gap,0.077,0.008,rural,race,regular
-density gap,0.001,0.011,rural,race,regular
-income gap,-0.215,0.136,rural,race,regular
-poverty gap,0.021,0.012,rural,race,regular
-highway gap,0.662,0.009,rural,race,regular
-MUD gap,-0.057,0.010,urban,race,regular
-SFD gap,-0.029,0.009,urban,race,regular
-density gap,0.000,0.000,urban,race,regular
-income gap,-0.089,0.051,urban,race,regular
-poverty gap,-0.031,0.006,urban,race,regular
-highway gap,-0.018,0.052,urban,race,regular
-SFD gap,0.820,0.080,rural,income,std
-density gap,0.262,0.102,rural,income,std
-income gap,-0.421,0.076,rural,income,std
-black percent gap,0.108,0.077,rural,income,std
-highway gap,0.203,0.078,rural,income,std
-SFD gap,0.301,0.060,urban,income,std
-density gap,0.016,0.044,urban,income,std
-income gap,-0.007,0.058,urban,income,std
-black percent gap,0.043,0.052,urban,income,std
-highway gap,0.251,0.060,urban,income,std
-SFD gap,0.700,0.063,rural,race,std
-density gap,-0.026,0.083,rural,race,std
-income gap,-0.182,0.089,rural,race,std
-poverty gap,0.080,0.084,rural,race,std
-highway gap,0.129,0.059,rural,race,std
-SFD gap,0.026,0.042,urban,race,std
-density gap,-0.037,0.040,urban,race,std
-income gap,-0.107,0.086,urban,race,std
-poverty gap,-0.376,0.072,urban,race,std
-highway gap,0.397,0.044,urban,race,std
-MUD gap,0.260,0.103,rural,income,std_mud
+MUD gap,0.26,0.103,rural,income,std_mud
 SFD gap,0.983,0.091,rural,income,std_mud
 density gap,0.228,0.108,rural,income,std_mud
 income gap,-0.523,0.083,rural,income,std_mud
 black percent gap,0.087,0.101,rural,income,std_mud
 highway gap,1.205,0.219,rural,income,std_mud
-MUD gap,-0.370,0.086,urban,income,std_mud
+MUD gap,-0.37,0.086,urban,income,std_mud
 SFD gap,0.036,0.089,urban,income,std_mud
 density gap,0.023,0.042,urban,income,std_mud
 income gap,-0.111,0.061,urban,income,std_mud
